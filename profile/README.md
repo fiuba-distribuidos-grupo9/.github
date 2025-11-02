@@ -6,8 +6,10 @@ Aquí centralizamos el código y la documentación de nuestros proyectos.
 
 ## 📌 Información de la materia
 
-📍 Universidad de Buenos Aires – Facultad de Ingeniería  
+📍 Universidad de Buenos Aires – Facultad de Ingeniería
+
 📚 Materia: Sistemas Distribuidos I
+
 📅 Año: 2025
 
 ## 🎯 Objetivos de la Organización
