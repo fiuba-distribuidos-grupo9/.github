@@ -27,13 +27,13 @@ Aquí centralizamos el código y la documentación de nuestros proyectos.
     <td align="center" width="220px">
       <img src="../img/felipe.jpg" width="120px" style="border-radius:50%"><br>
       <b>Ascencio Felipe Santino</b><br>
-      <sub>🎓 Padrón: 110675</sub>
+      <sub>🎓 Padrón: 110675</sub><br>
       <sub>📧 fascencio@fi.uba.ar</sub>
     </td>
     <td align="center" width="220px">
       <img src="../img/luciano.jpg" width="120px" style="border-radius:50%"><br>
       <b>Gamberale Luciano Martín</b><br>
-      <sub>🎓 Padrón: 105892</sub>
+      <sub>🎓 Padrón: 105892</sub><br>
       <sub>📧 lgamberale@fi.uba.ar</sub>
     </td>
   </tr>
@@ -41,13 +41,13 @@ Aquí centralizamos el código y la documentación de nuestros proyectos.
     <td align="center" width="220px">
       <img src="../img/axel.jpg" width="120px" style="border-radius:50%"><br>
       <b>Zielonka Axel</b><br>
-      <sub>🎓 Padrón: 110310</sub>
+      <sub>🎓 Padrón: 110310</sub><br>
       <sub>📧 azielonka@fi.uba.ar</sub>
     </td>
     <td align="center" width="220px">
       <img src="../img/franco.jpeg" width="120px" style="border-radius:50%"><br>
       <b>Papa Franco</b><br>
-      <sub>🎓 Corrector</sub>
+      <sub>🎓 Corrector</sub><br>
       <sub>📧 fpapa@fi.uba.ar</sub>
     </td>
   </tr>
