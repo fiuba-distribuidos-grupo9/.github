@@ -33,7 +33,7 @@ Aquí centralizamos el código y la documentación de nuestros proyectos.
       <sub>📧 fascencio@fi.uba.ar</sub>
     </td>
     <td align="center" width="220px">
-      <img src="../img/luciano.jpg" width="120px" style="border-radius:50%"><br>
+      <img src="../img/luciano.jpeg" width="120px" style="border-radius:50%"><br>
       <b>Gamberale Luciano Martín</b><br>
       <sub>🎓 Padrón: 105892</sub><br>
       <sub>📧 lgamberale@fi.uba.ar</sub>
